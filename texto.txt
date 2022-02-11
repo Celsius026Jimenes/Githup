@@ -1,5 +1,6 @@
 curso de git desde cero 
  
 modificacion parte dos de este trabajoxD
+hoy es 10 de Febrero y otra vez bamos practicando git
 
 
